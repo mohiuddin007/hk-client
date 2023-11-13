@@ -4,7 +4,6 @@ import { Container, Navbar, NavDropdown, Offcanvas } from 'react-bootstrap';
 function NavBar() {
     return (
         <div>
-
             <Navbar bg="light" expand={false}>
                 <Container fluid>
                     <Navbar.Brand href="#">HK Dashboard</Navbar.Brand>
